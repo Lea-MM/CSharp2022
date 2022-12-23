@@ -1,0 +1,7 @@
+Configuring Database
+1. Build the form and Start Debugging
+2. Add reference to the library
+3. Add reference to the entity framework
+4. Add connection string to the project
+5. Build the solution and the projects
+6. Bind the data: View > Other Windows > Data Sources > Add New Data Source > Object > Database Model
